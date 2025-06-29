@@ -9,6 +9,7 @@ Analyser les comportements des clients multibancarisés de la banque fictive WeB
 
 
 # Structure du projet
+```
 project/
 │
 ├── data/
@@ -24,6 +25,7 @@ project/
 │ ├── ├── Multi-banking analysis.pbix
 │ ├── ├── Presentation of results.pptx
 └─└── └── Summary of analysis method.pdf
+```
 
 
 # Jeu de données
